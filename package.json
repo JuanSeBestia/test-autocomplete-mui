@@ -96,7 +96,6 @@
     "rest": "^2.0.0",
     "semantic-ui-css": "2.4.1",
     "semantic-ui-react": "^0.88.2",
-    "stoerk-ui-components": "^2.0.1",
     "urlsafe-base64": "^1.0.0",
     "validate.js": "^0.13.1",
     "video-react": "^0.14.1"
