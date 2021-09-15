@@ -1,0 +1,47 @@
+{
+  "extends": [
+    "react-app",
+    // Sorry airbnb is too strict and it brake the build, if we want to use them
+    // we need to change a lot of code and update react-script to v4
+    // "airbnb"
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:@typescript-eslint/eslint-recommended"
+  ],
+  "plugins": ["react", "prettier"],
+  "rules": {
+    "prettier/prettier": "warn",
+    "react/prefer-stateless-function": [1],
+    "react/jsx-filename-extension": [
+      1,
+      { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
+    ],
+    "no-console": ["warn", { "allow": ["error"] }],
+    "no-unused-vars": "warn",
+    "react/jsx-props-no-spreading": ["error", { "custom": "ignore" }],
+    "react/jsx-key": "warn",
+    
+    "@typescript-eslint/no-var-requires": [1],
+    "@typescript-eslint/no-redeclare": [0],
+    "@typescript-eslint/ban-ts-ignore": [1],
+    "@typescript-eslint/camelcase": [1],
+    "@typescript-eslint/explicit-module-boundary-types": [0]
+  },
+  "globals": {
+    "window": true,
+    "document": true,
+    "expect": true,
+    "describe": true,
+    "it": true,
+    "navigator": true,
+    "FormData": true,
+    "jasmine": true,
+    "Image": true,
+    "Blob": true,
+    "FileReader": true,
+    "localStorage": true,
+    "atob": true,
+    "btoa": true,
+    "jest": true
+  }
+}

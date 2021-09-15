@@ -1,0 +1,4 @@
+/*  MuiDialog has a z-index: 1300, then the snackbar look behind of backdrop*/
+.snackbar-feedback{
+    z-index: 2000;
+}
