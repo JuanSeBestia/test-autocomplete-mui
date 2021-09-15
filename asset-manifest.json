@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/JuanSeBestia/test-autocomplete-mui/static/css/main.4c3895bf.chunk.css",
-    "main.js": "/JuanSeBestia/test-autocomplete-mui/static/js/main.424af13c.chunk.js",
-    "main.js.map": "/JuanSeBestia/test-autocomplete-mui/static/js/main.424af13c.chunk.js.map",
-    "runtime-main.js": "/JuanSeBestia/test-autocomplete-mui/static/js/runtime-main.493c0168.js",
-    "runtime-main.js.map": "/JuanSeBestia/test-autocomplete-mui/static/js/runtime-main.493c0168.js.map",
-    "static/css/2.b81797f9.chunk.css": "/JuanSeBestia/test-autocomplete-mui/static/css/2.b81797f9.chunk.css",
-    "static/js/2.5275825c.chunk.js": "/JuanSeBestia/test-autocomplete-mui/static/js/2.5275825c.chunk.js",
-    "static/js/2.5275825c.chunk.js.map": "/JuanSeBestia/test-autocomplete-mui/static/js/2.5275825c.chunk.js.map",
-    "index.html": "/JuanSeBestia/test-autocomplete-mui/index.html",
-    "precache-manifest.01fb6ba40b23f329a4de5cb7ddbec9f7.js": "/JuanSeBestia/test-autocomplete-mui/precache-manifest.01fb6ba40b23f329a4de5cb7ddbec9f7.js",
-    "service-worker.js": "/JuanSeBestia/test-autocomplete-mui/service-worker.js",
-    "static/css/2.b81797f9.chunk.css.map": "/JuanSeBestia/test-autocomplete-mui/static/css/2.b81797f9.chunk.css.map",
-    "static/css/main.4c3895bf.chunk.css.map": "/JuanSeBestia/test-autocomplete-mui/static/css/main.4c3895bf.chunk.css.map",
-    "static/js/2.5275825c.chunk.js.LICENSE.txt": "/JuanSeBestia/test-autocomplete-mui/static/js/2.5275825c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/JuanSeBestia/test-autocomplete-mui/static/media/roboto-vietnamese-400-normal.756af8e5.woff2"
+    "main.css": "/test-autocomplete-mui/static/css/main.4c3895bf.chunk.css",
+    "main.js": "/test-autocomplete-mui/static/js/main.2f890ca1.chunk.js",
+    "main.js.map": "/test-autocomplete-mui/static/js/main.2f890ca1.chunk.js.map",
+    "runtime-main.js": "/test-autocomplete-mui/static/js/runtime-main.282e8519.js",
+    "runtime-main.js.map": "/test-autocomplete-mui/static/js/runtime-main.282e8519.js.map",
+    "static/css/2.9338af8a.chunk.css": "/test-autocomplete-mui/static/css/2.9338af8a.chunk.css",
+    "static/js/2.5275825c.chunk.js": "/test-autocomplete-mui/static/js/2.5275825c.chunk.js",
+    "static/js/2.5275825c.chunk.js.map": "/test-autocomplete-mui/static/js/2.5275825c.chunk.js.map",
+    "index.html": "/test-autocomplete-mui/index.html",
+    "precache-manifest.9a6f69a47a121cd32ff6fe3c0fe2f7f1.js": "/test-autocomplete-mui/precache-manifest.9a6f69a47a121cd32ff6fe3c0fe2f7f1.js",
+    "service-worker.js": "/test-autocomplete-mui/service-worker.js",
+    "static/css/2.9338af8a.chunk.css.map": "/test-autocomplete-mui/static/css/2.9338af8a.chunk.css.map",
+    "static/css/main.4c3895bf.chunk.css.map": "/test-autocomplete-mui/static/css/main.4c3895bf.chunk.css.map",
+    "static/js/2.5275825c.chunk.js.LICENSE.txt": "/test-autocomplete-mui/static/js/2.5275825c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-autocomplete-mui/static/media/roboto-vietnamese-400-normal.756af8e5.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.493c0168.js",
-    "static/css/2.b81797f9.chunk.css",
+    "static/js/runtime-main.282e8519.js",
+    "static/css/2.9338af8a.chunk.css",
     "static/js/2.5275825c.chunk.js",
     "static/css/main.4c3895bf.chunk.css",
-    "static/js/main.424af13c.chunk.js"
+    "static/js/main.2f890ca1.chunk.js"
   ]
 }
