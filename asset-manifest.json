@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/test-autocomplete-mui/static/css/main.4c3895bf.chunk.css",
-    "main.js": "/test-autocomplete-mui/static/js/main.b4dbbf66.chunk.js",
-    "main.js.map": "/test-autocomplete-mui/static/js/main.b4dbbf66.chunk.js.map",
+    "main.css": "/test-autocomplete-mui/static/css/main.e35455eb.chunk.css",
+    "main.js": "/test-autocomplete-mui/static/js/main.94f232f7.chunk.js",
+    "main.js.map": "/test-autocomplete-mui/static/js/main.94f232f7.chunk.js.map",
     "runtime-main.js": "/test-autocomplete-mui/static/js/runtime-main.282e8519.js",
     "runtime-main.js.map": "/test-autocomplete-mui/static/js/runtime-main.282e8519.js.map",
-    "static/css/2.9338af8a.chunk.css": "/test-autocomplete-mui/static/css/2.9338af8a.chunk.css",
-    "static/js/2.c7bdf823.chunk.js": "/test-autocomplete-mui/static/js/2.c7bdf823.chunk.js",
-    "static/js/2.c7bdf823.chunk.js.map": "/test-autocomplete-mui/static/js/2.c7bdf823.chunk.js.map",
+    "static/js/2.ccc22f5a.chunk.js": "/test-autocomplete-mui/static/js/2.ccc22f5a.chunk.js",
+    "static/js/2.ccc22f5a.chunk.js.map": "/test-autocomplete-mui/static/js/2.ccc22f5a.chunk.js.map",
     "index.html": "/test-autocomplete-mui/index.html",
-    "precache-manifest.b273e9c717e30c229531ef9fd7797d23.js": "/test-autocomplete-mui/precache-manifest.b273e9c717e30c229531ef9fd7797d23.js",
+    "precache-manifest.3b543755e6c345f3f5def3380bb836c2.js": "/test-autocomplete-mui/precache-manifest.3b543755e6c345f3f5def3380bb836c2.js",
     "service-worker.js": "/test-autocomplete-mui/service-worker.js",
-    "static/css/2.9338af8a.chunk.css.map": "/test-autocomplete-mui/static/css/2.9338af8a.chunk.css.map",
-    "static/css/main.4c3895bf.chunk.css.map": "/test-autocomplete-mui/static/css/main.4c3895bf.chunk.css.map",
-    "static/js/2.c7bdf823.chunk.js.LICENSE.txt": "/test-autocomplete-mui/static/js/2.c7bdf823.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/test-autocomplete-mui/static/media/roboto-vietnamese-400-normal.756af8e5.woff2"
+    "static/css/main.e35455eb.chunk.css.map": "/test-autocomplete-mui/static/css/main.e35455eb.chunk.css.map",
+    "static/js/2.ccc22f5a.chunk.js.LICENSE.txt": "/test-autocomplete-mui/static/js/2.ccc22f5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.282e8519.js",
-    "static/css/2.9338af8a.chunk.css",
-    "static/js/2.c7bdf823.chunk.js",
-    "static/css/main.4c3895bf.chunk.css",
-    "static/js/main.b4dbbf66.chunk.js"
+    "static/js/2.ccc22f5a.chunk.js",
+    "static/css/main.e35455eb.chunk.css",
+    "static/js/main.94f232f7.chunk.js"
   ]
 }
