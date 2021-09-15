@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-autocomplete-mui/precache-manifest.3b543755e6c345f3f5def3380bb836c2.js"
+  "/test-autocomplete-mui/precache-manifest.c31dced131cb2edb45e39266d61e123f.js"
 );
 
 self.addEventListener('message', (event) => {
